@@ -438,7 +438,7 @@
                 <!-- Product 1 -->
                 <div class="bg-white rounded-xl shadow-md overflow-hidden group hover:shadow-xl transition-all duration-300">
                     <div class="relative h-64 overflow-hidden">
-                        <img src="https://ci.xiaohongshu.com/notes_pre_post/1040g3k831ep0pl75ls705n5dk1qkmjd8vkrrieg?imageView2/2/w/1080/format/jpg" alt="Valmont" class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-500">
+                        <img src="https://i.pinimg.com/736x/da/8a/27/da8a27ebd897e09b55602eb1adfd4b0f.jpg" alt="Valmont" class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-500">
                         <div class="absolute inset-0 bg-gradient-to-t from-dark/70 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center">
                             <a href="#contact" class="bg-white text-primary px-4 py-2 rounded-full transform -translate-y-4 group-hover:translate-y-0 transition-transform duration-300">Learn More</a>
                         </div>
@@ -452,7 +452,7 @@
                 <!-- Product 2 -->
                 <div class="bg-white rounded-xl shadow-md overflow-hidden group hover:shadow-xl transition-all duration-300">
                     <div class="relative h-64 overflow-hidden">
-                        <img src="https://ci.xiaohongshu.com/1040g00831i3pbsovna004ah64kdancfvf9j5vr8?imageView2/2/w/1080/format/jpg" alt="Erno Laszlo" class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-500">
+                        <img src="https://i.pinimg.com/736x/ac/f4/eb/acf4ebe576ae92d57fb47193b4446e88.jpg" alt="Erno Laszlo" class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-500">
                         <div class="absolute inset-0 bg-gradient-to-t from-dark/70 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center">
                             <a href="#contact" class="bg-white text-primary px-4 py-2 rounded-full transform -translate-y-4 group-hover:translate-y-0 transition-transform duration-300">Learn More</a>
                         </div>
@@ -466,7 +466,7 @@
                 <!-- Product 3 -->
                 <div class="bg-white rounded-xl shadow-md overflow-hidden group hover:shadow-xl transition-all duration-300">
                     <div class="relative h-64 overflow-hidden">
-                        <img src="https://ci.xiaohongshu.com/notes_pre_post/1040g3k831i69moe1na00414tpsad7jpubq1mkk0?imageView2/2/w/1080/format/jpg" alt="Dermalogica" class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-500">
+                        <img src="https://i.pinimg.com/736x/f4/1e/2e/f41e2ea840bccff940ec91767c2dcbbc.jpg" alt="Dermalogica" class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-500">
                         <div class="absolute inset-0 bg-gradient-to-t from-dark/70 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center">
                             <a href="#contact" class="bg-white text-primary px-4 py-2 rounded-full transform -translate-y-4 group-hover:translate-y-0 transition-transform duration-300">Learn More</a>
                         </div>
@@ -480,7 +480,7 @@
                 <!-- Product 4 -->
                 <div class="bg-white rounded-xl shadow-md overflow-hidden group hover:shadow-xl transition-all duration-300">
                     <div class="relative h-64 overflow-hidden">
-                        <img src="https://ci.xiaohongshu.com/1040g2sg3169bb23egm704a0nmobutcaqmi07tug?imageView2/2/w/1080/format/jpg" alt="Elemis" class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-500">
+                        <img src="https://i.pinimg.com/736x/e3/09/85/e30985db0dd0450a0a2c553b2268fd3c.jpg" alt="Elemis" class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-500">
                         <div class="absolute inset-0 bg-gradient-to-t from-dark/70 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center">
                             <a href="#contact" class="bg-white text-primary px-4 py-2 rounded-full transform -translate-y-4 group-hover:translate-y-0 transition-transform duration-300">Learn More</a>
                         </div>
@@ -570,7 +570,7 @@
                 <!-- Team Member 3 -->
                 <div class="bg-white rounded-xl shadow-md overflow-hidden group hover:shadow-xl transition-all duration-300">
                     <div class="relative overflow-hidden">
-                        <img src="https://ci.xiaohongshu.com/1040g008311pi9jtd0e6g5oo4phr3oje4rq52lkg?imageView2/2/w/1080/format/jpg" alt="Sophia Rodriguez" class="w-full h-96 object-cover object-center transform group-hover:scale-105 transition-transform duration-500">
+                        <img src="https://i.pinimg.com/736x/ad/32/10/ad3210d62156a68651ac566938371ec6.jpg" alt="Sophia Rodriguez" class="w-full h-96 object-cover object-center transform group-hover:scale-105 transition-transform duration-500">
                         <div class="absolute inset-0 bg-gradient-to-t from-dark/70 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end justify-center pb-8">
                             <div class="flex space-x-4">
                                 <a href="#" class="bg-white text-primary p-2 rounded-full hover:bg-primary hover:text-white transition-colors duration-300">
