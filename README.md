@@ -289,7 +289,7 @@
                 <!-- Service Card 3 -->
                 <div class="bg-white rounded-2xl shadow-lg overflow-hidden transform hover:-translate-y-2 transition-all duration-500 group">
                     <div class="relative h-60 overflow-hidden">
-                        <img src="https://i.pinimg.com/736x/0e/d4/74/0ed474b14f6761fb5934be2cf48537ac.jpg" alt="Body Treatments" class="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-700">
+                        <img src="[https://i.pinimg.com/736x/0e/d4/74/0ed474b14f6761fb5934be2cf48537ac.jpg](https://i.pinimg.com/736x/68/e4/75/68e47530ce25d717c467271755bf8eee.jpg)" alt="Body Treatments" class="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-700">
                         <div class="absolute inset-0 bg-gradient-to-t from-dark/70 to-transparent"></div>
                         <h3 class="absolute bottom-4 left-4 text-white text-xl font-bold">Body Treatments</h3>
                     </div>
@@ -516,7 +516,8 @@
                 <!-- Team Member 1 -->
                 <div class="bg-white rounded-xl shadow-md overflow-hidden group hover:shadow-xl transition-all duration-300">
                     <div class="relative overflow-hidden">
-                        <img src="https://www.rescuespa.com/wp-content/smush-webp/2019/09/DanutaBioImageV2.jpg.webp" alt="Danuta Mieloch" class="w-full h-96 object-cover object-center transform group-hover:scale-105 transition-transform duration-500">
+                        <img src="<img width="735" height="607" alt="image" src="https://github.com/user-attachments/assets/a9763dd2-102f-4dd6-a23d-dd5a1118cc17" />
+" alt="Danuta Mieloch" class="w-full h-96 object-cover object-center transform group-hover:scale-105 transition-transform duration-500">
                         <div class="absolute inset-0 bg-gradient-to-t from-dark/70 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end justify-center pb-8">
                             <div class="flex space-x-4">
                                 <a href="#" class="bg-white text-primary p-2 rounded-full hover:bg-primary hover:text-white transition-colors duration-300">
