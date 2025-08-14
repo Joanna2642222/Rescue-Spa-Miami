@@ -131,7 +131,7 @@
         <div class="container mx-auto px-4">
             <div class="flex flex-col md:flex-row items-center gap-12">
                 <div class="md:w-1/2">
-                    <img src="https://www.rescuespa.com/wp-content/smush-webp/2023/02/1811ProductHallwayWebsitegallery-768x512.jpg.webp" alt="Rescue Spa Miami Interior" class="rounded-2xl shadow-xl w-full h-auto transform hover:scale-[1.02] transition-transform duration-500">
+                    <img src="https://i.pinimg.com/736x/68/e4/75/68e47530ce25d717c467271755bf8eee.jpg" alt="Rescue Spa Miami Interior" class="rounded-2xl shadow-xl w-full h-auto transform hover:scale-[1.02] transition-transform duration-500">
                 </div>
                 
                 <div class="md:w-1/2">
@@ -250,7 +250,7 @@
                 <!-- Service Card 2 -->
                 <div class="bg-white rounded-2xl shadow-lg overflow-hidden transform hover:-translate-y-2 transition-all duration-500 group">
                     <div class="relative h-60 overflow-hidden">
-                        <img src="https://i.pinimg.com/736x/68/e4/75/68e47530ce25d717c467271755bf8eee.jpg" alt="Advanced Skincare" class="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-700">
+                        <img src="https://i.pinimg.com/736x/9f/67/ed/9f67ed6d6c6b85870fddc781fd92bf4b.jpg" alt="Advanced Skincare" class="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-700">
                         <div class="absolute inset-0 bg-gradient-to-t from-dark/70 to-transparent"></div>
                         <h3 class="absolute bottom-4 left-4 text-white text-xl font-bold">Advanced Skincare</h3>
                     </div>
@@ -289,7 +289,7 @@
                 <!-- Service Card 3 -->
                 <div class="bg-white rounded-2xl shadow-lg overflow-hidden transform hover:-translate-y-2 transition-all duration-500 group">
                     <div class="relative h-60 overflow-hidden">
-                        <img src="https://i.pinimg.com/736x/68/e4/75/68e47530ce25d717c467271755bf8eee.jpg" alt="Body Treatments" class="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-700">
+                        <img src="https://i.pinimg.com/736x/0e/d4/74/0ed474b14f6761fb5934be2cf48537ac.jpg" alt="Body Treatments" class="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-700">
                         <div class="absolute inset-0 bg-gradient-to-t from-dark/70 to-transparent"></div>
                         <h3 class="absolute bottom-4 left-4 text-white text-xl font-bold">Body Treatments</h3>
                     </div>
@@ -516,7 +516,7 @@
                 <!-- Team Member 1 -->
                 <div class="bg-white rounded-xl shadow-md overflow-hidden group hover:shadow-xl transition-all duration-300">
                     <div class="relative overflow-hidden">
-                        <img src="blob:https://www.pinterest.com/9c3e9c82-ce1a-4b2b-870e-36155d3db315" alt="Danuta Mieloch" class="w-full h-96 object-cover object-center transform group-hover:scale-105 transition-transform duration-500">
+                        <img src="https://i.pinimg.com/736x/ad/2a/a5/ad2aa5515cbfbbbddc48746e4b13bdb0.jpg" alt="Danuta Mieloch" class="w-full h-96 object-cover object-center transform group-hover:scale-105 transition-transform duration-500">
                         <div class="absolute inset-0 bg-gradient-to-t from-dark/70 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end justify-center pb-8">
                             <div class="flex space-x-4">
                                 <a href="#" class="bg-white text-primary p-2 rounded-full hover:bg-primary hover:text-white transition-colors duration-300">
@@ -543,7 +543,7 @@
                 <!-- Team Member 2 -->
                 <div class="bg-white rounded-xl shadow-md overflow-hidden group hover:shadow-xl transition-all duration-300">
                     <div class="relative overflow-hidden">
-                        <img src="blob:https://www.pinterest.com/9c3e9c82-ce1a-4b2b-870e-36155d3db315" alt="Emily Marchesi" class="w-full h-96 object-cover object-center transform group-hover:scale-105 transition-transform duration-500">
+                        <img src="https://i.pinimg.com/736x/b5/49/7b/b5497b78798f30420cc0a11ae85ba651.jpg" alt="Emily Marchesi" class="w-full h-96 object-cover object-center transform group-hover:scale-105 transition-transform duration-500">
                         <div class="absolute inset-0 bg-gradient-to-t from-dark/70 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end justify-center pb-8">
                             <div class="flex space-x-4">
                                 <a href="#" class="bg-white text-primary p-2 rounded-full hover:bg-primary hover:text-white transition-colors duration-300">
